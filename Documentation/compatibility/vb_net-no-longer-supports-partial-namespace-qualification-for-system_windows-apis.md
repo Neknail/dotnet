@@ -10,7 +10,7 @@ Minor
 Available
 
 ### Change Description
-Beginning in .NET 4.5.2, VB.NET projects cannot specify System.Windows APIs with partially-qualified namespaces. For example, referring to `Windows.Forms.DialogResult` will fail. Instead, code must refer to the fully qualified name (<xref:System.Windows.Forms.DialogResult>) or import the specific namespace and refer simply to <xref:System.Windows.Forms.DialogResult?displayProperty=name>.
+Beginning in .NET Framework 4.5.2, VB.NET projects cannot specify System.Windows APIs with partially-qualified namespaces. For example, referring to `Windows.Forms.DialogResult` will fail. Instead, code must refer to the fully qualified name (<xref:System.Windows.Forms.DialogResult>) or import the specific namespace and refer simply to <xref:System.Windows.Forms.DialogResult?displayProperty=name>.
 
 - [ ] Quirked
 - [x] Build-time break
@@ -24,6 +24,6 @@ Code should be updated to refer to `System.Windows` APIs either with simple name
 ### Category
 Visual Basic .NET
 
-[More information](http://stackoverflow.com/questions/23573659/forms-is-not-a-member-of-windows)
+[More information](https://stackoverflow.com/questions/23573659/forms-is-not-a-member-of-windows)
 
 <!-- breaking change id: 127 -->

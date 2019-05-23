@@ -1,4 +1,4 @@
-## ICommand.CanExecuteChanged event behaviour changed in .NET 4.5
+## ICommand.CanExecuteChanged event behaviour changed in .NET Framework 4.5
 
 ### Scope
 Minor
@@ -17,7 +17,7 @@ Planned
 In the .NET Framework 4.5, a
 <xref:System.Windows.Input.ICommand.CanExecuteChanged?displayProperty=name> was
 ignored unless the sender of the event was the same object as the object that
-raised the event. This bug was fixed in .NET Framework 4.5 servcing updates.
+raised the event. This bug was fixed in .NET Framework 4.5 servicing updates.
 
 - [ ] Quirked
 - [ ] Build-time break
