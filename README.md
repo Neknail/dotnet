@@ -2,7 +2,7 @@
 
 This repository is a starting point to learn about and engage in .NET and .NET open source projects.
 
-This repo is not an official .NET Framework support location, however, we will respond to issues filed here as best we can. Please file .NET Core product issues at [dotnet/core](https://github.com/dotnet/core/issues) and ASP.NET Core product issues at [aspnet/home](https://github.com/aspnet/home/issues).
+This repository is not an official .NET Framework support location, however, we will respond to issues filed here as best we can. Please file .NET Core product issues at [dotnet/core](https://github.com/dotnet/core/issues) and ASP.NET Core product issues at [aspnet/home](https://github.com/aspnet/home/issues).
 
 You can try out an early access release of the .NET Framework at the [.NET Framework Early Access](https://github.com/microsoft/dotnet-framework-early-access) website.
 
@@ -66,10 +66,10 @@ There are additional templates available for `dotnet new`. For more information,
 ## .NET Foundation
 
 Many .NET open source projects are part of the
-[.NET Foundation](http://www.dotnetfoundation.org/projects). Microsoft has contributed many projects, including ASP.NET Core and
+[.NET Foundation](https://www.dotnetfoundation.org/projects). Microsoft has contributed many projects, including ASP.NET Core and
 .NET Core. You may want to consider [joining the .NET Foundation](https://dotnetfoundation.org/get-involved).
 
-Check out the [.NET Foundation Forums](http://forums.dotnetfoundation.org/) to see what others are talking about, or start a new discussion to ask a question or make a point. 
+Check out the [.NET Foundation Forums](https://forums.dotnetfoundation.org/) to see what others are talking about, or start a new discussion to ask a question or make a point. 
 
 ## License
 
